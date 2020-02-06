@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc9785cd-36f6-42e6-88e9-59d648d659a9" name="Default Changelist" comment="" />
+    <list default="true" id="fc9785cd-36f6-42e6-88e9-59d648d659a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge4/Challenge4.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge4/Challenge4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge4/NumberToWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge4/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge4/fibonacci.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +21,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TwBLZN2iRCWLjYMU7xrn50cZl2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -32,7 +44,7 @@
       <recent name="C:\Users\bryan1.garner\PycharmProjects\challenges\challenge1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fibonacci">
+  <component name="RunManager" selected="Python tests.Unittests for Challenge4.Challenge4.test_challenge4">
     <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,69 +66,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for Challenge2.Challenge1.test_challenge2searchcar" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Challenge4.Challenge4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Challenge2.Challenge1.test_challenge2searchcar&quot;" />
+      <option name="_new_target" value="&quot;Challenge4.Challenge4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for challenge3.Challenge3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Challenge4.Challenge4.test_challenge4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenge3 Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;challenge3.Challenge3&quot;" />
+      <option name="_new_target" value="&quot;Challenge4.Challenge4.test_challenge4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in challenge1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for challenge4.Challenge4.Challenge4.test_challenge4" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/challenge1/challenge1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;challenge4.Challenge4.Challenge4.test_challenge4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in challenge3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in Challenge4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenge3 Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Challenge3 Loops/challenge3.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/challenge4/Challenge4.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for Challenge4.Challenge4.test_challenge4" />
+        <item itemvalue="Python tests.Unittests in Challenge4.py" />
+        <item itemvalue="Python tests.Unittests for Challenge4.Challenge4" />
+        <item itemvalue="Python tests.Unittests for challenge4.Challenge4.Challenge4.test_challenge4" />
         <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python tests.Unittests in challenge3.py" />
-        <item itemvalue="Python tests.Unittests for challenge3.Challenge3" />
-        <item itemvalue="Python tests.Unittests for Challenge2.Challenge1.test_challenge2searchcar" />
-        <item itemvalue="Python tests.Unittests in challenge1.py" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +144,9 @@
       </list>
     </option>
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -146,45 +161,64 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="225" key="GridCell.Tab.0.bottom" timestamp="1576793923918">
+    <state x="396" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578608234472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576793923918" />
+    <state x="396" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1578608234472" />
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom" timestamp="1581023433364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581023433364" />
     <state width="1899" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.138.1920.1040@-1920.138.1920.1040" timestamp="1576703970793" />
-    <state width="1259" height="225" key="GridCell.Tab.0.center" timestamp="1576793923914">
+    <state width="1899" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.158.1920.1040@-1920.158.1920.1040" timestamp="1578697119099" />
+    <state width="1259" height="2" key="GridCell.Tab.0.center" timestamp="1581023433364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576793923914" />
+    <state width="1259" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581023433364" />
     <state width="1899" height="153" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.138.1920.1040@-1920.138.1920.1040" timestamp="1576703970793" />
-    <state width="1259" height="225" key="GridCell.Tab.0.left" timestamp="1576793923914">
+    <state width="1899" height="153" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.158.1920.1040@-1920.158.1920.1040" timestamp="1578697119099" />
+    <state width="1259" height="2" key="GridCell.Tab.0.left" timestamp="1581023433363">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576793923914" />
+    <state width="1259" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581023433363" />
     <state width="1899" height="153" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.138.1920.1040@-1920.138.1920.1040" timestamp="1576703970793" />
-    <state width="1259" height="225" key="GridCell.Tab.0.right" timestamp="1576793923918">
+    <state width="1899" height="153" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.158.1920.1040@-1920.158.1920.1040" timestamp="1578697119099" />
+    <state width="1259" height="2" key="GridCell.Tab.0.right" timestamp="1581023433364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576793923918" />
+    <state width="1259" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581023433364" />
     <state width="1899" height="153" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.138.1920.1040@-1920.138.1920.1040" timestamp="1576703970793" />
-    <state width="1259" height="225" key="GridCell.Tab.1.bottom" timestamp="1576793923918">
+    <state width="1899" height="153" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.158.1920.1040@-1920.158.1920.1040" timestamp="1578697119099" />
+    <state width="1259" height="225" key="GridCell.Tab.1.bottom" timestamp="1581021222511">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576793923918" />
-    <state width="1259" height="225" key="GridCell.Tab.1.center" timestamp="1576793923918">
+    <state width="1259" height="225" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581021222511" />
+    <state width="1259" height="225" key="GridCell.Tab.1.center" timestamp="1581021222510">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576793923918" />
-    <state width="1259" height="225" key="GridCell.Tab.1.left" timestamp="1576793923918">
+    <state width="1259" height="225" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1581021222510" />
+    <state width="1259" height="225" key="GridCell.Tab.1.left" timestamp="1581021222510">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576793923918" />
-    <state width="1259" height="225" key="GridCell.Tab.1.right" timestamp="1576793923918">
+    <state width="1259" height="225" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1581021222510" />
+    <state width="1259" height="225" key="GridCell.Tab.1.right" timestamp="1581021222510">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="225" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576793923918" />
-    <state x="336" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1578433185005">
+    <state width="1259" height="225" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1581021222510" />
+    <state x="336" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1581020011992">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578433185005" />
+    <state x="336" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581020011992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/challenge4/fibonacci.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
